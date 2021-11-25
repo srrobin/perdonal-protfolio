@@ -1,0 +1,25 @@
+.single-project-item {
+    margin : 25px 0;
+    }
+    .single-project-item h4 {
+    font-size : 15px;
+    margin : 15px 0 5px;
+    }
+    .single-project-item {
+    color : #222;
+    display : block;
+    }
+    .project_link {
+        text-transform: capitalize;
+        font-weight: lighter;
+        font-size: 12px;
+    }
+    .mr_20{ 
+     margin-right:20px;
+    }
+    .project-preview {
+        background-color: #ddd;
+        height: 100px;
+        width: 100%;
+        object-fit: cover;
+    }
