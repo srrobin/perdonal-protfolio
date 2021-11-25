@@ -1,7 +1,6 @@
 import React from 'react';
 import ProgressBar from '../../components/Progressbar/Progressbar';
 import skillImage from '../../sobi/skills.jpg'
-import BgImage from '../../sobi/bg4.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faQuoteLeft } from '@fortawesome/free-solid-svg-icons' 
 import CollapseBtn from '../../components/Collapse/Collapse_Btn';
@@ -12,7 +11,7 @@ const Skill = () => {
         <div className="row justify-content-between">
 			<div className="col-md-5 col-lg-5 col-sm-12">
 				<p className="lead"><FontAwesomeIcon icon={faQuoteLeft}/> When love and skill work together, expect a masterpiece.</p>
-				<img src={skillImage} className="img-fluid" alt="Responsive image"/>
+				<img src={skillImage} className="img-fluid" alt="Responsive "/>
 							
 				<blockquote className="blockquote">
 				<p className="mb-0 small">Soft skills get little respect but will make or break your career </p>

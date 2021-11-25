@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="col-6">
                     <div className="btn-area"> 
                         {Object.keys(info.socials).map(key=>(
-                        <a href={info.socials[key].link} target='_blank'><abbr title={info.socials[key].abbr}>{info.socials[key].icon}</abbr></a>
+                        <a href={info.socials[key].link} target='_blank' rel="noreferrer"><abbr title={info.socials[key].abbr}>{info.socials[key].icon}</abbr></a>
                         ))}
                     
                         
@@ -20,7 +20,7 @@ const Footer = () => {
                 </div>
                 <div className="col-6">
                     <div className="btn-area">
-                    <a href={cvPdf}  target='_blank' className="btn btn-outline-primary btn-sm float-right active ">print my resume</a>
+                    <a href={cvPdf}  target='_blank' rel="noreferrer" className="btn btn-outline-primary btn-sm float-right active ">print my resume</a>
                     </div>	 
                 </div>
             </div>

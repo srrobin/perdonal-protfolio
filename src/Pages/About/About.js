@@ -18,8 +18,8 @@ const About = (props) => {
                 </div>
             </div>
             <div className="col-md-6 col-lg-6 col-sm-12">
-                <h4 class="bs"><span class="bbs">Hi</span> I am {info.name}</h4>
-                <img src={info.profile_image} class="img-fluid" alt="Responsive image"></img>
+                <h4 className="bs"><span className="bbs">Hi</span> I am {info.name}</h4>
+                <img src={info.profile_image} className="img-fluid" alt="Responsive "/>
             </div>
          </div>
          <div className="second-area">

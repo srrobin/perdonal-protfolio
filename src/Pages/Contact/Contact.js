@@ -13,7 +13,7 @@ const Contact = () => {
 					
         <div className="col-md-4 col-lg-4 col-sm-12">
             <p className="lead"><FontAwesomeIcon icon={faQuoteLeft}/> I feel very honored that the Hawaiian spirits chose to contact me.</p>
-            <img src={info.contact_image} className="img-fluid" alt="Responsive image"/>
+            <img src={info.contact_image} className="img-fluid" alt="Responsive "/>
             <div className="w-20"></div>
 
             <dl>
