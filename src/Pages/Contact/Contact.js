@@ -37,7 +37,7 @@ const Contact = () => {
                     <p> <label for="email">Email</label><input type="email" name="email" placeholder="write your email number" /></p>
                     <p> <label for="tel">Phone Number</label><input type="tel" name="tel" placeholder="write your phone number" /></p>
                     <p> <label for="mess">I would like to discuss</label><textarea name="mess"  cols="30" rows="10"></textarea></p>
-                    <p> <input type="submit"  value="Send your message"/></p>
+                    <p> <input type="submit"  /></p>
                 </form> 
             </div>
         </div>
