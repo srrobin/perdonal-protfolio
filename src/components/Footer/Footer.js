@@ -10,8 +10,8 @@ const Footer = () => {
             <div className="row">
                 <div className="col-6">
                     <div className="btn-area"> 
-                        {Object.keys(info.socials).map(key=>(
-                        <a href={info.socials[key].link} target='_blank' rel="noreferrer"><abbr title={info.socials[key].abbr}>{info.socials[key].icon}</abbr></a>
+                        {info.socials.map(sinfo=>(
+                        <a href={sinfo.link} target='_blank' rel="noreferrer"><abbr title={sinfo.abbr}>{sinfo.icon}</abbr></a>
                         ))}
                     
                         

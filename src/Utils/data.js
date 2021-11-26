@@ -70,29 +70,29 @@ export default{
                },
 
     ],
-    socials:{ 
-        Facebook:{
+    socials:[
+        {
             link:'www.facebook.com',
             abbr:'facebook',
             icon:<FontAwesomeIcon icon={faFacebookSquare} size="lg" rotation={90}/> 
         },
-        Twitter:{ 
+        { 
             link:'www.facebook.com',
             abbr:'Twitter',
             icon:<FontAwesomeIcon icon={faTwitter} size="lg" rotation={90}/>
         },
-        LinkedIn:{ 
+        { 
             link:'www.facebook.com',
             abbr:'LinkedIn',
             icon:<FontAwesomeIcon icon={faLinkedin}  size="lg" rotation={90}/>
         },
-        GitHub:{ 
+        { 
             link:'www.facebook.com',
             abbr:' GitHub ',
             icon:<FontAwesomeIcon icon={faGithub} size="lg" rotation={90}/>
         },
 
-    },
+    ],
     about_text_1:'Ever since I was a kid, I had a keen interest in Computer. I got my first computer at the age of 22 and I have been coding since then. I am doing my graduation in Mathematics,but I am eager to build a career in IT.' ,
     about_text_2:'I started my frontend career with bootstrap and then tried to improve it with React JS. I have taught myself some basic CS topics in the way as well. I have solved many problems in various online judges. For the last one year, I am focused on Python & Django .',
     about_text_3:'I have built a few apps using React JS & Django . Some of the other things that fascinate me are history, ethnology, languages, books, movies etc.',
