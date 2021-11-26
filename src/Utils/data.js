@@ -82,12 +82,12 @@ export default{
             icon:<FontAwesomeIcon icon={faTwitter} size="lg" rotation={90}/>
         },
         { 
-            link:'www.facebook.com',
+            link:'https://www.linkedin.com/in/srrobin/',
             abbr:'LinkedIn',
             icon:<FontAwesomeIcon icon={faLinkedin}  size="lg" rotation={90}/>
         },
         { 
-            link:'www.facebook.com',
+            link:'https://github.com/srrobin',
             abbr:' GitHub ',
             icon:<FontAwesomeIcon icon={faGithub} size="lg" rotation={90}/>
         },
