@@ -37,7 +37,7 @@ const About = (props) => {
                         </thead>
                         <tbody>
                         {info.education.map(edu =>( 
-                            <tr>
+                            <tr key={edu.ex_name}>
                                 <td>{edu.ex_name}</td>
                                 <td>{edu.group}</td>
                                 <td>{edu.point}</td>

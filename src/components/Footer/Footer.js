@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="col-6">
                     <div className="btn-area"> 
                         {info.socials.map(sinfo=>(
-                        <a href={sinfo.link} target='_blank' rel="noreferrer"><abbr title={sinfo.abbr}>{sinfo.icon}</abbr></a>
+                        <a href={sinfo.link} target='_blank' rel="noreferrer" key={sinfo.link}><abbr title={sinfo.abbr}>{sinfo.icon}</abbr></a>
                         ))}
                     
                         
