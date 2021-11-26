@@ -72,7 +72,7 @@ export default{
     ],
     socials:[
         {
-            link:'www.facebook.com',
+            link:'https://www.facebook.com/srrobin07/',
             abbr:'facebook',
             icon:<FontAwesomeIcon icon={faFacebookSquare} size="lg" rotation={90}/> 
         },
