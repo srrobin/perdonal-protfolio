@@ -30,7 +30,7 @@ const Contact = () => {
           
             <div className="contact-form"> 
              <h4 className="font-weight-light">Contact With Me </h4> 
-                <form name="contact"  method="post" netlify netlify-honeypot="bot-field" hidden> 
+                <form name="contact"  method="post" netlify netlify-honeypot="bot-field" > 
                     <p> <label for="name">Name</label><input type="text" name="name" placeholder="write your name" /></p>
                     <p> <label for="email">Email</label><input type="email" name="email" placeholder="write your email number" /></p>
                     <p> <label for="tel">Phone Number</label><input type="tel" name="tel" placeholder="write your phone number" /></p>
