@@ -30,11 +30,12 @@ const Contact = () => {
           
             <div className="contact-form"> 
              <h4 className="font-weight-light">Contact With Me </h4> 
-                <form name="contactme"   method="POST" data-netlify="true"  > 
+                <form name="contactme"   method="POST" action="/contact"  >
+                    <input type="hidden" name="form-name" value="contactme"/> 
                     <p> <label for="name">Name</label><input type="text" name="name" placeholder="write your name" /></p>
                     <p> <label for="email">Email</label><input type="email" name="email" placeholder="write your email number" /></p>
                     <p> <label for="tel">Phone Number</label><input type="tel" name="tel" placeholder="write your phone number" /></p>
-                    <p> <label for="mess">I would like to discuss</label><textarea name="mess"  cols="30" rows="10"></textarea></p>
+                    <p> <label for="message">I would like to discuss</label><textarea name="message"  cols="30" rows="10"></textarea></p>
                     <p> <button type="submit"  >submit</button></p>
                 </form> 
             </div>
