@@ -1,7 +1,7 @@
 import React from 'react';
 import './footer.css'
 import info from '../../Utils/data'
-import cvPdf from '../../pdf/robin-cv.pdf'
+import cvPdf from '../../pdf/robin-cv-2020.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {  faCog } from '@fortawesome/free-solid-svg-icons'
 const Footer = () => {
