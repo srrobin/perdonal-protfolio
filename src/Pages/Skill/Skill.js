@@ -42,7 +42,7 @@ const Skill = () => {
 						<li>Designed and developed templates for spring based app</li>
 						<li>AngularJS Font-End Development</li>
 						<li>Working with Json Data</li>
-						<li>Jan/2015 –  Nov/2016</li> 
+						<li>Jan/2015 –  April/2017</li> 
 					</ul>
 				</div>
 			</CollapseBtn>
