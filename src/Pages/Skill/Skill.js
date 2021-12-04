@@ -21,12 +21,12 @@ const Skill = () => {
 
 
             <div className="col-md-6 col-lg-6 col-sm-12">
-				<ProgressBar label="HTML / CSS" skill="80"/>
-				<ProgressBar label="Bootstrap 3/4" skill="70"/>
-				<ProgressBar label="React Js" skill="30"/>
-				<ProgressBar label="jQuery" skill="40"/>
-				<ProgressBar label="Django" skill="70"/>
-				<ProgressBar label="Rest Framework" skill="50"/>
+				<ProgressBar label="HTML / CSS" skill="90"/>
+				<ProgressBar label="Bootstrap 3/4" skill="80"/>
+				<ProgressBar label="React Js" skill="70"/>
+				<ProgressBar label="jQuery" skill="50"/>
+				<ProgressBar label="Tailwindcss" skill="30"/>
+				<ProgressBar label="DRF" skill="50"/>
 				<ProgressBar label="MySQL / PostgreSQL" skill="70"/>
 				<ProgressBar label="Git" skill="80"/>
 
