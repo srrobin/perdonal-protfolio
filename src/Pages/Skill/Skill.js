@@ -25,7 +25,7 @@ const Skill = () => {
 				<ProgressBar label="Bootstrap 3/4" skill="80"/>
 				<ProgressBar label="React Js" skill="70"/>
 				<ProgressBar label="jQuery" skill="50"/>
-				<ProgressBar label="Tailwindcss" skill="30"/>
+				<ProgressBar label="Tailwindcss" skill="30" className="bg-warning"/>
 				<ProgressBar label="DRF" skill="50"/>
 				<ProgressBar label="MySQL / PostgreSQL" skill="70"/>
 				<ProgressBar label="Git" skill="80"/>
