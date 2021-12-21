@@ -21,6 +21,18 @@ export default{
     button_down_icon:<FontAwesomeIcon icon={faCaretDown} />,
     projectItem:[
         {
+            project_title:'React Admin Dashboard',
+            live_demo_link:'https://react-admin-dev.netlify.app',
+            github_link:'https://github.com/srrobin/react-admin-dev',
+            project_image:'images/admin.jpg',
+           },
+           {
+            project_title:'React Covid App',
+            live_demo_link:'https://covid-react-app-19.netlify.app',
+            github_link:'https://github.com/srrobin/react-covid',
+            project_image:'images/covid.png',
+           },
+        {
          project_title:'React Firebase CURD ',
          live_demo_link:'https://react-firebase-curd.netlify.app',
          github_link:'https://github.com/srrobin/react-firebase-curd',
@@ -44,12 +56,8 @@ export default{
             github_link:'https://github.com/srrobin/rest-framework-project',
             project_image:'images/drf.png',
            },
-           {
-            project_title:'React Covid App',
-            live_demo_link:'https://covid-react-app-19.netlify.app',
-            github_link:'https://github.com/srrobin/react-covid',
-            project_image:'images/covid.png',
-           },
+
+
 
 ],
     education:[
