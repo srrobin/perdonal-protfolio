@@ -38,17 +38,32 @@ export default{
          github_link:'https://github.com/srrobin/react-firebase-curd',
          project_image:'images/rfp.png',
         },
+        
+        {
+            project_title:'React Image Dev',
+            live_demo_link:'https://react-image-dev.netlify.app/',
+            github_link:'https://github.com/srrobin/react-image-dev',
+            project_image:'images/imgapp.png',
+        },
         {
             project_title:'React Json Server CURD',
             live_demo_link:'no link',
             github_link:'https://github.com/srrobin/React-Json-Server-CURD',
             project_image:'images/rj.png',
         },
+        
         {
-            project_title:'Django Multi User',
+            project_title:'React Quiz (coming soon ...)',
             live_demo_link:'no link',
-            github_link:'https://github.com/srrobin/django-multi-user-app',
-            project_image:'images/muser.jpg',
+            github_link:'no_link',
+            project_image:'images/quiz.jpg',
+           },
+           
+        {
+            project_title:'react shopping (coming soon ...)',
+            live_demo_link:'no link',
+            github_link:'no_link',
+            project_image:'images/shop.png',
            },
            {
             project_title:'django Rest Framework',
