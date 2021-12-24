@@ -84,7 +84,7 @@ export default{
             live_demo_link:'no link',
             github_link:'https://github.com/srrobin/rest-framework-project',
             project_image:'images/drf.png',
-            type:'drf'
+            type:'static'
            },
 
 
