@@ -8,7 +8,7 @@ import Footer from './components/Footer/Footer'
 import About from './Pages/About/About'
 import Work from './Pages/Works/Work'
 import Skill  from "./Pages/Skill/Skill";
-import Contact from './Pages/Contact/Contact'
+import Contact from './Pages/Contact/Contact';
 
 function App() {
   return (

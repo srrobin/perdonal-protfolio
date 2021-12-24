@@ -25,18 +25,21 @@ export default{
             live_demo_link:'https://react-admin-dev.netlify.app',
             github_link:'https://github.com/srrobin/react-admin-dev',
             project_image:'images/admin.jpg',
+            type:'react'
            },
            {
             project_title:'React Covid App',
             live_demo_link:'https://covid-react-app-19.netlify.app',
             github_link:'https://github.com/srrobin/react-covid',
             project_image:'images/covid.jpg',
+            type:'react'
            },
         {
          project_title:'React Firebase CURD ',
          live_demo_link:'https://react-firebase-curd.netlify.app',
          github_link:'https://github.com/srrobin/react-firebase-curd',
          project_image:'images/rfp.png',
+         type:'react'
         },
         
         {
@@ -44,12 +47,14 @@ export default{
             live_demo_link:'https://react-image-dev.netlify.app/',
             github_link:'https://github.com/srrobin/react-image-dev',
             project_image:'images/imgapp.png',
+            type:'react'
         },
         {
             project_title:'React Json Server CURD',
             live_demo_link:'no link',
             github_link:'https://github.com/srrobin/React-Json-Server-CURD',
             project_image:'images/rj.png',
+            type:'react'
         },
         
         {
@@ -57,6 +62,7 @@ export default{
             live_demo_link:'no link',
             github_link:'no_link',
             project_image:'images/quiz.jpg',
+            type:'react'
            },
            
         {
@@ -64,12 +70,14 @@ export default{
             live_demo_link:'no link',
             github_link:'no_link',
             project_image:'images/shop.png',
+            type:'react'
            },
            {
             project_title:'django Rest Framework',
             live_demo_link:'no link',
             github_link:'https://github.com/srrobin/rest-framework-project',
             project_image:'images/drf.png',
+            type:'static'
            },
 
 
