@@ -39,7 +39,7 @@ export default{
          project_title:'Online Organic Store ',
          live_demo_link:'https://online-organic-store.netlify.app',
          github_link:'https://github.com/srrobin/online-store',
-         project_image:'images/store.jpg',
+         project_image:'images/store2.jpg',
          type:'static'
         },       {
          project_title:'React Firebase CURD ',
