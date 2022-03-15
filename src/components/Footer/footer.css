@@ -1,0 +1,29 @@
+abbr[data-original-title], abbr[title] {
+    cursor : alias;
+    }
+    abbr {
+    position : relative;
+    }
+    abbr:hover::after {
+    position : absolute;
+    bottom : 100%;
+    left : 100%;
+    display : block;
+    padding : 3px 8px;
+    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+    content : attr(title);
+    color : #fff;
+    font-size : 14px;
+    font-weight : 700;
+    border-radius : 15px;
+    }
+    .footer-area {
+    border-top : 1px solid #999;
+    margin : 5px 0;
+    }
+    .btn-area > a {
+        padding-left : 9px;
+    }
+        .btn-area {
+        padding : 11px 0;
+        }

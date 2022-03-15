@@ -1,0 +1,55 @@
+.alignleft {
+  float : left;
+  margin-right : 15px;
+  }
+  .alignright {
+  float : right;
+  margin-left : 15px;
+  }
+  .aligncenter {
+  display : block;
+  margin : 0 auto 15px;
+  }
+  a,a:hover {
+  text-decoration : none !important;
+  }
+  a:focus {
+  outline : 0 solid;
+  text-decoration : none;
+  }
+  images {
+  max-width : 100%;
+  height : auto;
+  }
+  input:focus, button:focus, textarea:focus, a:focus {
+  outline : none;
+  }
+  h1, h2, h3, h4, h5, h6 {
+  margin : 0 0 15px;
+  font-weight : 700;
+  }
+  p:last-child {
+  margin-bottom : 0;
+  }
+  .container {
+  max-width : 720px !important;
+  min-height : 200px;
+  }
+  .simple-bg-1 {
+  background-image : url('./sobi/bg4.png');
+  }
+  
+  .card {
+  background-repeat : no-repeat;
+  background-size : 24% auto;
+  }
+  .custom-shadow {
+    box-shadow: rgb(247 243 243 / 25%) 0px 0.0625em 0.0625em, rgb(0 0 0 / 25%) 0px 0.125em 0.5em, rgb(255 255 255 / 10%) 0px 0px 0px 1px inset;
+}
+  section, h1,h2,h3,h4,h5,h6, li, img ,div, p,img {
+    -moz-transition: width 1s ease-in-out, left 1.5s ease-in-out;
+    -webkit-transition: width 1s ease-in-out, left 1.5s ease-in-out;
+    -moz-transition: width 1s ease-in-out, left 1.5s ease-in-out;
+    -o-transition: width 1s ease-in-out, left 1.5s ease-in-out;
+    transition: width 1s ease-in-out, left 1.5s ease-in-out;
+}

@@ -1,0 +1,37 @@
+.about {
+    font-size : 16px;
+    font-weight : 300;
+    margin-bottom : 25px;
+    }
+    .bs {
+    /* background-image : linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%) !important; */
+    /* background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%) !important; */
+    background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%) !important;
+    border-radius : 5px;
+    color : #fff;
+    display : block;
+    margin-top : 4px;
+    padding : 5px 20px;
+    font-weight : 300;
+    font-size : 18px;
+    }
+    .bbs {
+    background-color : #000;
+    border : #000 solid 1px;
+    font-size : 15px;
+    font-weight : 700;
+    padding : 0 5px;
+    }
+    .m-btn {
+    background-color : #fff;
+    border : none medium;
+    cursor : pointer;
+    margin : 0;
+    padding : 0;
+    color : #8b8989;
+    }
+    .title h4 {
+    color : #4f4f4f;
+    margin : 2px 0;
+    padding : 10px 0;
+    }

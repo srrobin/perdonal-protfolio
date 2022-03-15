@@ -1,0 +1,8 @@
+.content{ 
+    height: 0px;
+    overflow: hidden;
+    transition: height ease .3s;
+}
+.contant.show{
+    height: auto;
+}
