@@ -13,7 +13,9 @@ import Contact from './Pages/Contact/Contact';
 function App() {
   return (
     <div className="container">
-      <div className="card border-0  shadow-lg my-4 simple-bg-1">
+      <div class="row align-items-center vh-100">
+      <div class="col-12 mx-auto">
+      <div className="card border-0  shadow my-4 simple-bg-1">
         <div className="card-body p-4">
         <Router>
             <Header/>
@@ -31,6 +33,8 @@ function App() {
             <Footer/>
             </Router>
         </div>
+      </div>
+      </div>
       </div>
     </div>
     
