@@ -15,7 +15,7 @@ function App() {
     <div className="container">
       <div class="row align-items-center vh-100">
       <div class="col-12 mx-auto">
-      <div className="card border-0  shadow my-4 simple-bg-1">
+      <div className="card border-0  custom-shadow my-4 simple-bg-1">
         <div className="card-body p-4">
         <Router>
             <Header/>
