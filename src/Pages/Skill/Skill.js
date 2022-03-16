@@ -20,7 +20,7 @@ const Skill = () => {
 			</div>
 
 
-            <div className="col-md-6 col-lg-6 col-sm-12">
+            <div className="col-md-6 col-lg-6 col-sm-12"> 
 				<ProgressBar label="HTML / CSS" skill="90"/>
 				<ProgressBar label="Bootstrap 4/5" skill="80"/>
 				<ProgressBar label="React Js" skill="70"/>
