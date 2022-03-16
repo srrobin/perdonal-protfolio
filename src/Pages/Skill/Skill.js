@@ -22,12 +22,12 @@ const Skill = () => {
 
             <div className="col-md-6 col-lg-6 col-sm-12">
 				<ProgressBar label="HTML / CSS" skill="90"/>
-				<ProgressBar label="Bootstrap 3/4" skill="80"/>
+				<ProgressBar label="Bootstrap 4/5" skill="80"/>
 				<ProgressBar label="React Js" skill="70"/>
-				<ProgressBar label="jQuery" skill="50"/>
-				<ProgressBar label="Tailwindcss" skill="30" className="bg-warning"/>
+				<ProgressBar label="Next Js" skill="50"/>
+				<ProgressBar label="Less" skill="30" className="bg-warning"/>
 				<ProgressBar label="DRF" skill="50"/>
-				<ProgressBar label="MySQL / PostgreSQL" skill="70"/>
+				<ProgressBar label="MongoDBg" skill="70"/>
 				<ProgressBar label="Git" skill="80"/>
 
 				{/* <img src={BgImage} className="img-fluid" alt="Responsive image" width="150"/> */}
