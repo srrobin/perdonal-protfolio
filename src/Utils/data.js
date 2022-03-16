@@ -49,13 +49,6 @@ export default{
             type:'react'
            },
            {
-            project_title:'React Covid App',
-            live_demo_link:'https://covid-react-app-19.netlify.app',
-            github_link:'https://github.com/srrobin/react-covid',
-            project_image:'images/covid.jpg',
-            type:'react'
-           },
-           {
             project_title:'WealthLink',
             live_demo_link:'https://wealthlink.cisstaging.com/',
             github_link:'https://github.com/Creative-IT-Soft/wealth_link_financial',
