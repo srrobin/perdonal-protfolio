@@ -28,57 +28,80 @@ export default{
             type:'react'
            },
            {
+            project_title:'React Easy2manage',
+            live_demo_link:'https://easy2manage.co.uk/',
+            github_link:'',
+            project_image:'images/eas2manager.png',
+            type:'react'
+           },
+           {
+            project_title:'Rose Academy',
+            live_demo_link:'https://roses.cisstaging.com/',
+            github_link:'https://github.com/srrobin/school-primary',
+            project_image:'images/school.png',
+            type:'static'
+           },
+           {
             project_title:'React Covid App',
             live_demo_link:'https://covid-react-app-19.netlify.app',
             github_link:'https://github.com/srrobin/react-covid',
             project_image:'images/covid.jpg',
             type:'react'
            },
+           {
+            project_title:'WealthLink',
+            live_demo_link:'https://wealthlink.cisstaging.com/',
+            github_link:'https://github.com/Creative-IT-Soft/wealth_link_financial',
+            project_image:'images/card1.png',
+            type:'static'
+           },
+		      
 		   
-        {
-         project_title:'Online Grocery Store ',
-         live_demo_link:'https://online-organic-store.netlify.app',
-         github_link:'https://github.com/srrobin/online-store',
-         project_image:'images/store2.jpg',
-         type:'static'
-        },       {
-         project_title:'React Firebase CURD ',
-         live_demo_link:'https://react-firebase-curd.netlify.app',
-         github_link:'https://github.com/srrobin/react-firebase-curd',
-         project_image:'images/rfp.png',
-         type:'react'
-        },
+            {
+            project_title:'Online Grocery Store ',
+            live_demo_link:'https://online-organic-store.netlify.app',
+            github_link:'https://github.com/srrobin/online-store',
+            project_image:'images/store2.jpg',
+            type:'static'
+            },      
+            {
+            project_title:'React Firebase CURD ',
+            live_demo_link:'https://react-firebase-curd.netlify.app',
+            github_link:'https://github.com/srrobin/react-firebase-curd',
+            project_image:'images/rfp.png',
+            type:'react'
+            },
         
-        {
-            project_title:'React Image Dev',
-            live_demo_link:'https://react-image-dev.netlify.app/',
-            github_link:'https://github.com/srrobin/react-image-dev',
-            project_image:'images/imgapp.png',
-            type:'react'
-        },
-        {
-            project_title:'React Json Server CURD',
-            live_demo_link:'no link',
-            github_link:'https://github.com/srrobin/React-Json-Server-CURD',
-            project_image:'images/rj.png',
-            type:'react'
-        },
+            {
+                project_title:'React Image Dev',
+                live_demo_link:'https://react-image-dev.netlify.app/',
+                github_link:'https://github.com/srrobin/react-image-dev',
+                project_image:'images/imgapp.png',
+                type:'react'
+            },
+            {
+                project_title:'React Json Server CURD',
+                live_demo_link:'no link',
+                github_link:'https://github.com/srrobin/React-Json-Server-CURD',
+                project_image:'images/rj.png',
+                type:'react'
+            },
         
-        {
-            project_title:'React Quiz (coming soon ...)',
-            live_demo_link:'no link',
-            github_link:'no_link',
-            project_image:'images/quiz.jpg',
-            type:'react'
-           },
+            {
+                project_title:'React Quiz (coming soon ...)',
+                live_demo_link:'no link',
+                github_link:'no_link',
+                project_image:'images/quiz.jpg',
+                type:'react'
+            },
            
-        {
-            project_title:'react shopping (coming soon ...)',
-            live_demo_link:'no link',
-            github_link:'no_link',
-            project_image:'images/shop.png',
-            type:'react'
-           },
+            {
+                project_title:'react shopping (coming soon ...)',
+                live_demo_link:'no link',
+                github_link:'no_link',
+                project_image:'images/shop.png',
+                type:'react'
+            },
            {
             project_title:'django Rest Framework',
             live_demo_link:'no link',
