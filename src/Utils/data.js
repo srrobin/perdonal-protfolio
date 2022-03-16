@@ -63,7 +63,14 @@ export default{
             github_link:'https://github.com/srrobin/online-store',
             project_image:'images/store2.jpg',
             type:'static'
-            },      
+            },  
+	    {
+                project_title:'Creative It Soft',
+                live_demo_link:'https://creativeitsoft.net/',
+                github_link:'',
+                project_image:'images/cover3.png',
+                type:'static'
+                },  
             {
             project_title:'React Firebase CURD ',
             live_demo_link:'https://react-firebase-curd.netlify.app',
