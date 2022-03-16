@@ -70,7 +70,7 @@ export default{
                 github_link:'',
                 project_image:'images/cover3.png',
                 type:'static'
-                },  
+            },  
             {
             project_title:'React Firebase CURD ',
             live_demo_link:'https://react-firebase-curd.netlify.app',
